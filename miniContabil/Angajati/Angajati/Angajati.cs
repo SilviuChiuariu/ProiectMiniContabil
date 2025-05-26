@@ -1,22 +1,4 @@
-﻿/******************************************************************************
- *                                                                            *
- *  File:        Angajati.cs                                                  *
- *  Author:      Bran Ioana-Andreea                                           *
- *  E-mail:      ioana-andreea.bran@student.tuiasi.ro                         *
- *  Description: This module defines the employee model and provides salary   *
- *               calculation utilities used in the miniContaBill application. *
- *               It includes functions for calculating net salary, total      *
- *               salary, average salary, and employer cost for employees.     *
- *                                                                            *
- *  Project:     miniContaBill                                                *
- *                                                                            *
- *  This code and information are provided "as is" without warranty of any    *
- *  kind, either expressed or implied, including but not limited to the       *
- *  implied warranties of merchantability or fitness for a particular purpose.*
- *  You are free to use this source code in your applications as long as the  *
- *  original copyright notice is included.                                    *
- *                                                                            *
- ******************************************************************************/
+﻿
 
 using System.Collections.Generic;
 using System.Linq;

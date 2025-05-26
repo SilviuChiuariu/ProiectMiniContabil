@@ -1,26 +1,4 @@
-﻿/**************************************************************************
- *                                                                        *
- *  File:        Amortizari.cs                                            *
- *  Copyright:   (c) 2025, Bran Ioana-Andreea                             *
- *  E-mail:      ioana-andreea.bran@student.tuiasi.ro                     *
- *  Description:  The asset depreciation calculation module in the        *
- *                miniContaBill application. Includes methods for         *
- * calculating linear,progressive, and declining balance depreciation,    *
- * returning a list of annual values ​​and the remaining value. It is used  * 
- * within the accounting application to estimate the loss of value of     *
- * assets over time.                                                      *
- *                                                                        *
- *  Project:     miniContaBill                                            *
- *                                                                        *
- *  This code and information is provided "as is" without warranty of     *
- *  any kind, either expressed or implied, including but not limited      *
- *  to the implied warranties of merchantability or fitness for a         *
- *  particular purpose. You are free to use this source code in your      *
- *  applications as long as the original copyright notice is included.    *
- *                                                                        *
- **************************************************************************/
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace Amortizari

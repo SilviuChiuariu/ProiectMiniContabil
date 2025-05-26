@@ -1,22 +1,4 @@
-﻿/**************************************************************************
- *                                                                        *
- *  File:        tabSalariiForm.cs                                        *
- *  Copyright:   (c) 2025, Bran Ioana-Andreea                            *
- *  E-mail:      ioana-andreea.bran@student.tuiasi.ro                     *
- *  Description:  Windows Forms UI pentru gestionarea salariilor          *
- *       angajaților unei firme selectate.Permite adăugarea, modificarea, *
- *       ștergerea și salvarea angajaților în format JSON.Afișează un     *
- *   DataGridView cu angajații firmei și calculează salariul net,salariul *
- *   mediu,costul total pentru angajator și suma totală a salariilor.     *
- *  Project: miniContaBill                                                *
- *                                                                        *
- *  This code and information is provided "as is" without warranty of     *
- *  any kind, either expressed or implied, including but not limited      *
- *  to the implied warranties of merchantability or fitness for a         *
- *  particular purpose. You are free to use this source code in your      *
- *  applications as long as the original copyright notice is included.    *
- *                                                                        *
- **************************************************************************/
+﻿
 
 using System;
 using System.Collections.Generic;
@@ -478,6 +460,9 @@ namespace MiniContaBill
             }
         }
 
-  
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

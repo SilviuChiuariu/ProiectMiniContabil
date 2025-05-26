@@ -1,19 +1,4 @@
-﻿/**************************************************************************
- *                                                                        *
- *  File:        tab1Form.cs                                              *
- *  Copyright:   (c) 2025, Bran Ioana -Andreea                            *
- *  E-mail:      ioana-andreea.bran@student.tuiasi.ro                     *
- *  Description:  Windows Forms UI for amortization calculator (linear,   *
- *                  progressive, degressive)                              *
- *  Project: miniContaBill                                                *
- *                                                                        *
- *  This code and information is provided "as is" without warranty of     *
- *  any kind, either expressed or implied, including but not limited      *
- *  to the implied warranties of merchantability or fitness for a         *
- *  particular purpose. You are free to use this source code in your      *
- *  applications as long as the original copyright notice is included.    *
- *                                                                        *
- **************************************************************************/
+﻿
 
 /// <summary>
 /// tab1Form este formularul principal pentru calculul amortizării.
