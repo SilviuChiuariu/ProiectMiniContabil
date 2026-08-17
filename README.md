@@ -47,7 +47,7 @@ The dashboard also displays the currently selected company and allows navigation
 
 ---
 
-# 💰 Capital & Depreciation
+## 💰 Capital & Depreciation
 
 The Capital module provides calculations for the depreciation of company assets.
 
@@ -77,7 +77,7 @@ The depreciation logic is implemented separately in the `Amortizari` project.
 
 ---
 
-# 📈 Cost & Profit
+## 📈 Cost & Profit
 
 The Cost & Profit module contains several economic calculations.
 
@@ -92,7 +92,7 @@ The user can calculate:
 - 🏦 Profit tax
 - 🎯 Break-even point
 
-# ⚖️ Demand & Supply
+## ⚖️ Demand & Supply
 
 The Demand & Supply module provides examples for different types of economic elasticity.
 
@@ -109,7 +109,7 @@ The project contains strategies for:
  - unit elastic supply;
  - other implemented supply examples.
 
- # 👥 Employees & Salaries
+ ## 👥 Employees & Salaries
 
  The Employees & Salaries module allows the company to manage its employees.
 
@@ -136,7 +136,7 @@ Validation is performed when adding or updating employees, including checks for:
  - duplicate IDs;
  - duplicate employee names.
  - 
-💰 Salary Calculations
+## 💰 Salary Calculations
 
 The application can calculate:
 
@@ -145,7 +145,7 @@ The application can calculate:
  - net salary;
  - total employer cost.
 
- 💵 Dividends
+## 💵 Dividends
 
 The project also contains a separate Dividente component.
 
@@ -158,7 +158,7 @@ It provides calculations related to:
 
 This functionality is particularly relevant for companies of type SA, where the application also handles shares.
 
-🎨 Design Patterns
+## 🎨 Design Patterns
 
 Two main design patterns were implemented in the project.
 
@@ -170,13 +170,13 @@ The Builder Pattern is used for creating different types of companies.
 
 The Strategy Pattern is used in the Demand & Supply module.
 
-🧪 Testing
+## 🧪 Testing
 
 The project contains a dedicated testing project: ##MiniContaBillTests##
 
 The tests use MSTest and focus mainly on testing the reusable business logic independently from the graphical interface.
 
-🛠️ Technologies
+## 🛠️ Technologies
 
 The main technologies and libraries used in the project are:
 
@@ -189,7 +189,7 @@ The main technologies and libraries used in the project are:
 🧪 MSTest
 📈 Windows Forms Charting
 
-👥 Team Collaboration
+## 👥 Team Collaboration
 
 The project was developed together with:
 
@@ -200,7 +200,7 @@ Zabara Sonia
 
 The final application combines the work of all four team members across the different modules.
 
-# ▶️ Running the Project
+## ▶️ Running the Project
 
 ## 📋 Prerequisites
 
