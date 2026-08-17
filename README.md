@@ -224,23 +224,6 @@ git clone https://github.com/SilviuChiuariu/ProiectMiniContabil.git
 cd ProiectMiniContabil
 ```
 
-
-## 🖥️ 2. Open the Project
-
-After cloning the repository, open the solution file:
-
-```text
-miniContabil.sln
-```
-
-📦 3. Restore NuGet Packages
-
-After opening the solution, restore the required NuGet packages.
-
-From Visual Studio, you can use:
-
-Tools → NuGet Package Manager → Restore NuGet Packages
-
 The project uses packages such as:
 
 ReaLTaiizor
